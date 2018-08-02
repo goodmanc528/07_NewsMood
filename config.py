@@ -5,7 +5,7 @@
 # access_token_secret = "dCZ80uNRbFDjxdU2EckmNiSckdoATach6Q8zb7YYYE5ER"
 
 # My Twitter API Keys....
-consumer_key = '0Pvp4m5QkEgV06EuWc9iIctA5'
-consumer_secret = 'hH6aGHwSYgUWFWb1fGbWntA4K5c3lFVluxLkFrF6yH37Ne4rM2'
-access_token = '214972054-Lo0fQL5ogqCEwakt9WOmRGRYWO2zfQHxavkwP1N1'
-access_token_secret = 'Kda9kitmLFhkj8tHiKZx3oeHMY7df5YNcJMTnBuE37vY9'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
